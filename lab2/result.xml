@@ -1,0 +1,60 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items>
+<item><name>Географічний факультет</name><url>/ua/departments/geography/</url></item>
+<item><name>Економічний факультет</name><url>/ua/departments/economics/</url></item>
+<item><name>Історичний факультет</name><url>/ua/departments/history/</url></item>
+<item><name>Механіко-математичний факультет</name><url>/ua/departments/mm/</url></item>
+<item><name>Факультет інформаційних технологій</name><url>/ua/departments/it/</url></item>
+<item><name>Факультет комп'ютерних наук та кібернетики</name><url>/ua/departments/csc/</url></item>
+<item><name>Факультет психології</name><url>/ua/departments/psychology/</url></item>
+<item><name>Факультет радіофізики, електроніки та комп’ютерних систем</name><url>/ua/departments/recs/</url></item>
+<item><name>Факультет соціології</name><url>/ua/departments/sociology/</url></item>
+<item><name>Фізичний факультет</name><url>/ua/departments/physics/</url></item>
+<item><name>Філософський факультет</name><url>/ua/departments/philosophy/</url></item>
+<item><name>Хімічний факультет</name><url>/ua/departments/chemistry/</url></item>
+<item><name>Військовий інститут</name><url>/ua/departments/military/</url></item>
+<item><name>Інститут післядипломної освіти</name><url>/ua/departments/ce/</url></item>
+<item><name>Iнститут Управлiння державної охорони України</name><url>/ua/departments/msgu/</url></item>
+<item><name>Навчально-науковий інститут високих технологій</name><url>/ua/departments/ht/</url></item>
+<item><name>Навчально-науковий інститут "Інститут геології"</name><url>/ua/departments/geology/</url></item>
+<item><name>Навчально-науковий інститут журналістики</name><url>/ua/departments/journalism/</url></item>
+<item><name>Навчально-науковий інститут  міжнародних відносин</name><url>/ua/departments/ir/</url></item>
+<item><name>Навчально-науковий інститут права</name><url>/ua/departments/law/</url></item>
+<item><name>Навчально-науковий інститут філології</name><url>/ua/departments/philology/</url></item>
+<item><name>Навчально-науковий інститут публічного управління та державної служби</name><url>/ua/departments/ipacs/</url></item>
+<item><name>Навчально-науковий центр "Інститут біології та медицини"</name><url>/ua/departments/bm/</url></item>
+<item><name>ВСП "Фаховий коледж геологорозвідувальних технологій"</name><url>/ua/departments/gpt/</url></item>
+<item><name>ВСП "Оптико-механічний фаховий коледж"</name><url>/ua/departments/om/</url></item>
+<item><name>Український фiзико-математичний лiцей</name><url>/ua/departments/upml/</url></item>
+<item><name>Підготовче відділення для громадян України</name><url>/ua/departments/pd/</url></item>
+<item><name>Підготовче відділення для іноземних громадян</name><url>/ua/departments/pdff/</url></item>
+<item><name>Видавничо-поліграфічний центр «Київський університет»</name><url>http://vpc.univ.kiev.ua/</url></item>
+<item><name>Молодіжний центр культурно-естетичного виховання</name><url>/ua/dep/molod-center/</url></item>
+<item><name>Навчально-науковий центр радіаційної безпеки</name><url>http://rb.univ.kiev.ua/</url></item>
+<item><name>Навчально-науковий центр рекреації та туризму КНУ імені Тараса Шевченка</name><url>http://www.chaika.univ.kiev.ua/</url></item>
+<item><name>Науково-консультаційний центр</name><url>http://scc.univ.kiev.ua/</url></item>
+<item><name>Центр iноземних мов</name><url>/ua/departments/ucfl/</url></item>
+<item><name>Центр комунікацій</name><url>/ua/departments/dc/</url></item>
+<item><name>Центр українознавства</name><url>http://uaznavstvo.univ.kiev.ua/</url></item>
+<item><name>Астрономiчна обсерваторiя</name><url>http://www.observ.univ.kiev.ua</url></item>
+<item><name>Бухгалтерія</name><url>http://knu.ua/ua/departments/accounting</url></item>
+<item><name>Відділ академічної мобільності</name><url>http://knu.ua/ua/dep/academic-mobile</url></item>
+<item><name>Відділ внутрішнього аудиту</name><url>http://knu.ua/ua/dep/ica</url></item>
+<item><name>Відділ забезпечення якості освіти</name><url>http://knu.ua/ua/departments/eqad</url></item>
+<item><name>Відділ міжнародних зв’язків</name><url>http://international.knu.ua</url></item>
+<item><name>Відділ аспірантури та докторантури</name><url>http://asp.knu.ua</url></item>
+<item><name>Інститут психіатрії</name><url>http://knu.ua/ua/departments/psychiatry</url></item>
+<item><name>Кафедра фізичного виховання та спорту</name><url>http://sport.univ.kiev.ua</url></item>
+<item><name>Навчальна лабораторія соціологічних та освітніх досліджень</name><url>http://sociology.knu.ua/uk/department/navchalna-laboratoriya-sociologichnyh-ta-osvitnih-doslidzhen</url></item>
+<item><name>Наукове товариство студентів та аспірантів</name><url>http://ntsa.univ.kiev.ua</url></item>
+<item><name>Наукова бібліотека ім. М.Максимовича</name><url>http://www.library.univ.kiev.ua</url></item>
+<item><name>Науково-дослідна частина </name><url>http://science.univ.kiev.ua</url></item>
+<item><name>Національний контактний пункт «Горизонт-2020»</name><url>http://www.nkp.univ.kiev.ua</url></item>
+<item><name>Первинна профспілкова організація</name><url>http://www.prof.univ.kiev.ua</url></item>
+<item><name>Планово-фінансовий відділ</name><url>http://knu.ua/ua/departments/dfp/</url></item>
+<item><name>Психологічна служба університету</name><url>http://knu.ua/ua/departments/ps/</url></item>
+<item><name>Рада молодих науковців</name><url>http://www.rmn.univ.kiev.ua/</url></item>
+<item><name>Органи студентського самоврядування</name><url>http://knu.ua/ua/dep/studparlament/</url></item>
+<item><name>Студмістечко КНУ</name><url>http://studmisto.knu.ua/</url></item>
+<item><name>Університетська клініка</name><url>http://knu.ua/ua/departments/uc</url></item>
+</items>

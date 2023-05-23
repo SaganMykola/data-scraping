@@ -28,8 +28,8 @@ def parse(self, response):
         if ek:
             url = ek.find(name="a", class_="model-short-title").get("href")
             img_url = ek.find(name="img").get("src")
-            store = ek.find("a", class_="model-short-title").find(string=True, recursive=False).strip()
-            price = ek.find()
+            store = ek.find(name="a", class_="model-short-title").find(string=True, recursive=False).strip()
+            price = ek.find(name="td", class_="model-shop-price").find(string=True, recursive=False).strip()
             yield Module2Item(
                 url=url,
                 img_url=[img_url],
